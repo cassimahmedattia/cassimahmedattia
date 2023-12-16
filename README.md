@@ -1,4 +1,5 @@
 # Cassim Ahmed Attia
+## 
 
 ### Hi there 👋
 
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## Subscribe to my Channel [![DevWithGeraud](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCLsyzK6h0_2XK-4mYM5sseg).
