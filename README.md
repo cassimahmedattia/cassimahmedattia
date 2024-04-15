@@ -1,6 +1,6 @@
 # This profile is Under Developement so Please be Patient some tags are not properly develop
 
-![YouTube](https://youtube.com/cassimahmedattia)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@cassimahmedattia?si=dtvzz1jbBYnIqBI3)
 
 
 # **CASSIM AHEMD ATTIA**
@@ -28,12 +28,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## Subscribe to my Channel [![DevWithGeraud](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCLsyzK6h0_2XK-4mYM5sseg)
+## Subscribe to my Channel [![cassimahmedattia](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCNwTIehCLMbcPtbM60UNG8w)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cassim-attia-38a087b1)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@cassimahmedattia)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCNwTIehCLMbcPtbM60UNG8w)(https://youtube.com/@cassimahmedattia?si=dtvzz1jbBYnIqBI3)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCNwTIehCLMbcPtbM60UNG8w)
+
 
 # 💻 Tech Stack:
 [This is a comment that will be hidden.]: Dart
