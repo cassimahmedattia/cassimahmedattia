@@ -1,6 +1,8 @@
 # This profile is Under Developement so Please be Patient some tags are not properly develop
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@cassimahmedattia?si=dtvzz1jbBYnIqBI3)
+[![Website](https://img.shields.io/badge/Website-%23FF0000.svg?logo=Website&logoColor=white)](https://cassimahmedattia.github.io/cassimahmedattia/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fcassimahmedattia.github.io%2Fcassimahmedattia%2F)](https://cassimahmedattia.github.io/cassimahmedattia/)
+
 
 
 # **CASSIM AHEMD ATTIA**
@@ -28,7 +30,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## Subscribe to my Channel [![cassimahmedattia](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCNwTIehCLMbcPtbM60UNG8w)
+## Subscribe to my Channel [![cassimahmedattia](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@cassimahmedattia?si=dtvzz1jbBYnIqBI3)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cassim-attia-38a087b1)
