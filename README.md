@@ -2,7 +2,9 @@
 
 [![Website](https://img.shields.io/badge/Website-%23FF0000.svg?logo=Website&logoColor=white)](https://cassimahmedattia.github.io/cassimahmedattia/)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fcassimahmedattia.github.io%2Fcassimahmedattia%2F)](https://cassimahmedattia.github.io/cassimahmedattia/)
-
+<br>
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF0000.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/CassimAhmedAttia/)
+<br>
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fcassimahmedattia.github.io%2Fcassimahmedattia%2F)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fcassimahmedattia.github.io%2Fcassimahmedattia%2F&up_message=Visit&up_color=Green&down_message=Warning&down_color=Red&logo=Visit&logoColor=RedWhite&label=Website&labelColor=Red&color=White)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fcassimahmedattia.github.io%2Fcassimahmedattia%2F&up_message=Visit&up_color=Green&down_message=Warning&down_color=Red&logo=Website&logoColor=RedWhite&label=Visit&labelColor=Red&color=White)
