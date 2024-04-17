@@ -1,6 +1,6 @@
 # This profile is Under Developement so Please be Patient some tags are not properly develop
 <br>
-[![](https://visitcount.itsvg.in/api?id=cassimahmedattia&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=cassimahmedattia&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 <br>
 
 [![Website](https://img.shields.io/badge/Website-%23FF0000.svg?logo=Website&logoColor=white)](https://cassimahmedattia.github.io/cassimahmedattia/)
