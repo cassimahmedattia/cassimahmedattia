@@ -3,7 +3,7 @@
 [![](https://visitcount.itsvg.in/api?id=cassimahmedattia&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 <br>
 
-[![Profile](https://img.shields.io/badge/Kaggle-%23FF0000.svg?logo="k"&logoColor=lightblue)](https://www.kaggle.com/cassimahmedattia)
+[![Kaggle-Profile](https://img.shields.io/badge/Kaggle-%230000FF.svg?logo=kaggle&logoColor=lightblue)](https://www.kaggle.com/cassimahmedattia)
 <br>
 [![Website](https://img.shields.io/badge/Website-%23FF0000.svg?logo=Website&logoColor=white)](https://cassimahmedattia.github.io/cassimahmedattia/)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fcassimahmedattia.github.io%2Fcassimahmedattia%2F)](https://cassimahmedattia.github.io/cassimahmedattia/)
