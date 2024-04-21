@@ -1,20 +1,3 @@
-[![GitLab](https://img.shields.io/badge/gitlab-%23ffffff.svg?style&logo=gitlab&logoColor=orange&link)](https://www.gitlab.com/cassimahmedattia)
-
-[![VirtualBox](https://img.shields.io/badge/virtualbox-%23000000.svg?style=for-the-badge&logo=virtualbox&logoColor=white&link)]()
-[![AWS](https://img.shields.io/badge/AWS-%23000000.svg?style=for-the-badge&logo=aws&logoColor=orange&link=https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Symbol-700x394.png)](link-url)
-
-[![WhatsApp](https://img.shields.io/badge/whatsapp-%23ffffff.svg?style=for-the-badge&logo=gitlab&logoColor=orange&link)](https://api.whatsapp.com/send/?phone=923072361899&text=Hello%20from%20GitHub&type=phone_number&sent&app_absent=1)
-
-<!--
-![GitLab](https://img.shields.io/badge/https%3A%2F%2Fgitlab.com%2Fcassimahmedattia?style=flat&logo=GitHub&logoColor=Orange&label=GitLab&labelColor=Black&color=White&link=https%3A%2F%2Fgitlab.com%2Fcassimahmedattia)
-
-[![Name](https://img.shields.io/badge/Name-%23color.svg?style=apply-style-from-list&logo=Name&logoColor=color&link=repository-address)](link-url)
--->
-
-
-
-
-
 ###### *This profile is Under Developement so Please be Patient some tags are not properly develop*
 <br>
 
@@ -97,18 +80,102 @@ https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,dis
 ## **Tag-Line**
 
 ###### `Cyber & Information Data Security Professional` | `Malware Analyst` | `SOC Analyst` | `CVE` | `Penetration Testing` | `Blue, Green, Orange, Purple, Red, Yellow Team` | `AiDesDevGitSecSysTechOps` | `OpsVerseAutomation` | `Cloud Edge, Architecture, Infrastructure & Engineering Management` | `FinTech` | `Blockchain Architecture & Core Architecture, Decentralized Applications & DeCentralized Finance` | `Programming` 
--->
-## 
 
 ## Subscribe to my Channel [![cassimahmedattia](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@cassimahmedattia?si=dtvzz1jbBYnIqBI3)
 
-## 🌐 Socials:
+<details>
+<summary>:eyes: Show Test Example</summary>
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+</details>
+
+# Features <!-- omit in toc -->
+
+- [GitHub Stats Card](#github-stats-card)
+    - [Hiding individual stats](#hiding-individual-stats)
+    - [Showing additional individual stats](#showing-additional-individual-stats)
+    - [Showing icons](#showing-icons)
+    - [Themes](#themes)
+    - [Customization](#customization)
+- [GitHub Extra Pins](#github-extra-pins)
+    - [Usage](#usage)
+    - [Demo](#demo)
+- [GitHub Gist Pins](#github-gist-pins)
+    - [Usage](#usage-1)
+    - [Demo](#demo-1)
+- [Top Languages Card](#top-languages-card)
+    - [Usage](#usage-2)
+    - [Language stats algorithm](#language-stats-algorithm)
+    - [Exclude individual repositories](#exclude-individual-repositories)
+    - [Hide individual languages](#hide-individual-languages)
+    - [Show more languages](#show-more-languages)
+    - [Compact Language Card Layout](#compact-language-card-layout)
+    - [Donut Chart Language Card Layout](#donut-chart-language-card-layout)
+    - [Donut Vertical Chart Language Card Layout](#donut-vertical-chart-language-card-layout)
+    - [Pie Chart Language Card Layout](#pie-chart-language-card-layout)
+    - [Hide Progress Bars](#hide-progress-bars)
+    - [Demo](#demo-2)
+- [WakaTime Stats Card](#wakatime-stats-card)
+    - [Demo](#demo-3)
+- [All Demos](#all-demos)
+  - [Quick Tip (Align The Cards)](#quick-tip-align-the-cards)
+- [Deploy on your own](#deploy-on-your-own)
+  - [On Vercel](#on-vercel)
+    - [:film\_projector: Check Out Step By Step Video Tutorial By @codeSTACKr](#film_projector-check-out-step-by-step-video-tutorial-by-codestackr)
+  - [On other platforms](#on-other-platforms)
+  - [Disable rate limit protections](#disable-rate-limit-protections)
+  - [Keep your fork up to date](#keep-your-fork-up-to-date)
+- [:sparkling\_heart: Support the project](#sparkling_heart-support-the-project)
+
+# Important Notices <!-- omit in toc -->
+
+> [!IMPORTANT]\
+> Since the GitHub API only [allows 5k requests per hour per user account](https://docs.github.com/en/graphql/overview/resource-limitations), the public Vercel instance hosted on `https://github-readme-stats.vercel.app/api` could possibly hit the rate limiter (see [#1471](https://github.com/anuraghazra/github-readme-stats/issues/1471)). We use caching to prevent this from happening (see https://github.com/anuraghazra/github-readme-stats#common-options). You can turn off these rate limit protections by deploying [your own Vercel instance](#disable-rate-limit-protections).
+
+
+
+
+-->
+
+You can use [GitHub's new media feature](https://github.blog/changelog/2022-05-19-specify-theme-context-for-images-in-markdown-beta/) in HTML to specify whether to display images for light or dark themes. This is done using the HTML `<picture>` element in combination with the `prefers-color-scheme` media feature.
+
+
+## Contact Me:
+<details>
+  <summary>
+    Click here to Expand in Details
+  </summary>
+
+[![WhatsApp](https://img.shields.io/badge/whatsapp-%23ffffff.svg?style=for-the-badge&logo=gitlab&logoColor=orange&link)](https://api.whatsapp.com/send/?phone=923072361899&text=Hello%20from%20GitHub&type=phone_number&sent&app_absent=1)
+
+[![Telegram](https://img.shields.io/badge/whatsapp-%23ffffff.svg?style=for-the-badge&logo=gitlab&logoColor=orange&link)](https://api.whatsapp.com/send/?phone=923072361899&text=Hello%20from%20GitHub&type=phone_number&sent&app_absent=1)
+
+
+</details>
+
+
+## 🌐 Social Links:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cassim-attia-38a087b1)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@cassimahmedattia)
+[![Instagram](https://img.shields.io/badge/Instagram-%230077B5.svg?logo=Instagram&logoColor=white))]()
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCNwTIehCLMbcPtbM60UNG8w)
 
+[![GitLab](https://img.shields.io/badge/gitlab-%23ffffff.svg?style&logo=gitlab&logoColor=orange&link)](https://www.gitlab.com/cassimahmedattia)
 
-# 💻 Tech Stack:
+[![VirtualBox](https://img.shields.io/badge/virtualbox-%23000000.svg?style=for-the-badge&logo=virtualbox&logoColor=white&link)]()
+[![AWS](https://img.shields.io/badge/AWS-%23000000.svg?style=for-the-badge&logo=aws&logoColor=orange&link=https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Symbol-700x394.png)](link-url)
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@cassimahmedattia)
+
+
+<!--
+![GitLab](https://img.shields.io/badge/https%3A%2F%2Fgitlab.com%2Fcassimahmedattia?style=flat&logo=GitHub&logoColor=Orange&label=GitLab&labelColor=Black&color=White&link=https%3A%2F%2Fgitlab.com%2Fcassimahmedattia)
+
+[![Name](https://img.shields.io/badge/Name-%23color.svg?style=apply-style-from-list&logo=Name&logoColor=color&link=repository-address)](link-url)
+-->
+
+# 💻 Tech Stack/Technology:
 
 [This is a comment that will be hidden.]: Dart
 
