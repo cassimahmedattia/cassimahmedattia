@@ -1,6 +1,6 @@
 <!--![Gitlab](https://img.shields.io/badge/logo=gitlab&logoColor=Orange&label=GitLab&labelColor=000000&color=ffffff&link=https%3A%2F%2Fgitlab.com%2Fcassimahmedattia)
 ![Static Badge](https://img.shields.io/badge/:badgeContent)-->
-[![GitLab](https://img.shields.io/badge/logo=github&logoColor=Orange&label=GitLab&labelColor=000000&color=ffffff)](https://www.gitlab.com/cassimahmedattia/)
+[![GitLab](https://img.shields.io/badge/logo=gitlab&logoColor=Orange&label=GitLab&labelColor=000000&color=ffffff)](https://www.gitlab.com/cassimahmedattia/)
 
 <!--
 ![GitLab](https://img.shields.io/badge/https%3A%2F%2Fgitlab.com%2Fcassimahmedattia?style=flat&logo=GitHub&logoColor=Orange&label=GitLab&labelColor=Black&color=White&link=https%3A%2F%2Fgitlab.com%2Fcassimahmedattia)
