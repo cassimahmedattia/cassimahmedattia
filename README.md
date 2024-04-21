@@ -1,10 +1,14 @@
 [![GitLab](https://img.shields.io/badge/gitlab-%23ffffff.svg?style&logo=gitlab&logoColor=orange&link)](https://www.gitlab.com/cassimahmedattia)
+
 [![VirtualBox](https://img.shields.io/badge/virtualbox-%23000000.svg?style=for-the-badge&logo=virtualbox&logoColor=white&link)]()
+[![AWS](https://img.shields.io/badge/AWS-%23000000.svg?style=for-the-badge&logo=aws&logoColor=orange&link=https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Symbol-700x394.png)](link-url)
 
-
+[![WhatsApp](https://img.shields.io/badge/whatsapp-%23ffffff.svg?style=for-the-badge&logo=gitlab&logoColor=orange&link)](https://api.whatsapp.com/send/?phone=923072361899&text=Hello%20from%20GitHub&type=phone_number&sent&app_absent=1)
 
 <!--
 ![GitLab](https://img.shields.io/badge/https%3A%2F%2Fgitlab.com%2Fcassimahmedattia?style=flat&logo=GitHub&logoColor=Orange&label=GitLab&labelColor=Black&color=White&link=https%3A%2F%2Fgitlab.com%2Fcassimahmedattia)
+
+[![Name](https://img.shields.io/badge/Name-%23color.svg?style=apply-style-from-list&logo=Name&logoColor=color&link=repository-address)](link-url)
 -->
 
 
