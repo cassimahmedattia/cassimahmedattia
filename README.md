@@ -7,6 +7,8 @@ https://github.com/anuraghazra
 
 cloudflare
 spotify
+SoundCloud
+
 -->
 
 # **CASSIM AHEMD ATTIA**
