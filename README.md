@@ -1,5 +1,30 @@
-###### *This profile is Under Developement so Please be Patient some tags are not properly develop*
+# Important Notices <!-- omit in toc -->
+> [!Important]\
+> *This Profile is Under Developement so Please be Patient some tags are not properly develop*
+
 <br>
+
+<!--Since the GitHub API only [allows 5k requests per hour per user account](https://docs.github.com/en/graphql/overview/resource-limitations), the public Vercel instance hosted on     `https://github-readme-stats.vercel.app/api` could possibly hit the rate limiter (see [#1471](https://github.com/anuraghazra/github-readme-stats/issues/1471)). We use caching to prevent this from happening (see https://github.com/anuraghazra/github-readme-stats#common-options). You can turn off these rate limit protections by deploying [your own Vercel instance](#disable-rate-limit-protections).-->
+
+ :a\heart
+
+- [:sparkling\_heart: Support the project](#sparkling_heart-support-the-project)
+# :sparkling\_heart: Support the project
+
+
+
+> [!test\: Test](:test\_♠️-test)\
+
+<!--
+# :sparkling\_heart: Support the project
+🥇 
+🥈 
+🥉 
+🅰️ 
+🧮 
+:a
+-->
+
 
 <!--
 https://github.com/Rez4-4
@@ -103,40 +128,6 @@ https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,dis
 
 # Features <!-- omit in toc -->
 
-- [GitHub Stats Card](#github-stats-card)
-    - [Hiding individual stats](#hiding-individual-stats)
-    - [Showing additional individual stats](#showing-additional-individual-stats)
-    - [Showing icons](#showing-icons)
-    - [Themes](#themes)
-    - [Customization](#customization)
-- [GitHub Extra Pins](#github-extra-pins)
-    - [Usage](#usage)
-    - [Demo](#demo)
-- [GitHub Gist Pins](#github-gist-pins)
-    - [Usage](#usage-1)
-    - [Demo](#demo-1)
-- [Top Languages Card](#top-languages-card)
-    - [Usage](#usage-2)
-    - [Language stats algorithm](#language-stats-algorithm)
-    - [Exclude individual repositories](#exclude-individual-repositories)
-    - [Hide individual languages](#hide-individual-languages)
-    - [Show more languages](#show-more-languages)
-    - [Compact Language Card Layout](#compact-language-card-layout)
-    - [Donut Chart Language Card Layout](#donut-chart-language-card-layout)
-    - [Donut Vertical Chart Language Card Layout](#donut-vertical-chart-language-card-layout)
-    - [Pie Chart Language Card Layout](#pie-chart-language-card-layout)
-    - [Hide Progress Bars](#hide-progress-bars)
-    - [Demo](#demo-2)
-- [WakaTime Stats Card](#wakatime-stats-card)
-    - [Demo](#demo-3)
-- [All Demos](#all-demos)
-  - [Quick Tip (Align The Cards)](#quick-tip-align-the-cards)
-- [Deploy on your own](#deploy-on-your-own)
-  - [On Vercel](#on-vercel)
-    - [:film\_projector: Check Out Step By Step Video Tutorial By @codeSTACKr](#film_projector-check-out-step-by-step-video-tutorial-by-codestackr)
-  - [On other platforms](#on-other-platforms)
-  - [Disable rate limit protections](#disable-rate-limit-protections)
-  - [Keep your fork up to date](#keep-your-fork-up-to-date)
 - [:sparkling\_heart: Support the project](#sparkling_heart-support-the-project)
 
 # Important Notices <!-- omit in toc -->
@@ -238,3 +229,5 @@ You can use [GitHub's new media feature](https://github.blog/changelog/2022-05-1
 
 
 
+
+# :test\_♠️: test
