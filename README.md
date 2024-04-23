@@ -172,7 +172,7 @@ You can use [GitHub's new media feature](https://github.blog/changelog/2022-05-1
     Click here to Expand in Details
   </summary>
 
-[![WhatsApp](https://img.shields.io/badge/whatsapp-%23ffffff.svg?style=for-the-badge&logo=gitlab&logoColor=orange&link)](https://api.whatsapp.com/send/?phone=923072361899&text=Hello%20from%20GitHub&type=phone_number&sent&app_absent=1)
+[![WhatsApp](https://img.shields.io/badge/whatsapp-%23ffffff.svg?style=for-the-badge&logo=gitlab&logoColor=orange&link)](https://api.whatsapp.com/send/?phone=''&text=Hello%20from%20GitHub&type=phone_number&sent&app_absent=1)
 
 [![Telegram](https://img.shields.io/badge/whatsapp-%23ffffff.svg?style=for-the-badge&logo=gitlab&logoColor=orange&link)](https://api.whatsapp.com/send/?phone=923072361899&text=Hello%20from%20GitHub&type=phone_number&sent&app_absent=1)
 
