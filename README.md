@@ -13,7 +13,7 @@
 -->
 
 
-> [!test\: Test](:test\_♠️-test)\
+[!test\: Test](:test\_♠️-test)\
 
 <!--
 # :sparkling\_heart: Support the project
