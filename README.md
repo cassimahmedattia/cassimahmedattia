@@ -1,17 +1,114 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=cassimahmedattia)](https://github.com/cassimahmedattia/github-profile-trophy)
+
+<p align="center"><!--
+  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />-->
+  <h2 align="center">GitHub Profile</h2>
+  <p align="center">🏆 Readme</p>
+</p>
+<p align="center">
+  <a href="https://github.com/cassimahmedattia/github-profile-trophy/issues">
+    <img src="https://img.shields.io/github/issues/cassimahmedattia/github-profile-trophy"/>
+  </a>
+  <a href="https://github.com/cassimahmedattia/github-profile-trophy/network/members">
+    <img src="https://img.shields.io/github/forks/cassimahmedattia/github-profile-trophy"/>
+  </a>
+  <a href="https://github.com/cassimahmedattia/github-profile-trophy/stargazers">
+    <img src="https://img.shields.io/github/stars/cassimahmedattia/github-profile-trophy"/>
+  </a>
+    <a href="https://github.com/cassimahmedattia/github-profile-trophy/LICENSE">
+    <img src="https://img.shields.io/github/license/cassimahmedattia/github-profile-trophy"/>
+  </a>
+</p>
+<p align="center">
+  </a>
+    <a href="https://twitter.com/intent/tweet?text=Add%20dynamically%20generated%20GitHub%20Trophy%20on%20your%20readme%0D%0A&url=https%3A%2F%2Fgithub.com%2cassimahmedattia%2Fgithub-profile-trophy">
+    <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2cassimahmedattia%2Fgithub-profile-trophy"/>
+  </a>
+</p><!--
+<p align="center">
+  You can use this service for free. I'm looking for sponsors to help us keep up with this service❤️
+</p>-->
+<p align="center">
+  <a href="https://github.com/sponsors/cassimahmedattia">
+    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/>
+  </a>
+</p>
+
+Profile Teller Freshly Apply: [![Profile Teller Freshly Apply](https://komarev.com/ghpvc/?username=cassimahmedattia)](https://cassimahmedattia.github.io/cassimahmedattia)
+<br>
+<br>
+Profile Teller Freely from Start: [![Profile Teller Initially to Till](https://komarev.com/ghpvc/?username=cassimahmedattia&base=1000&title=Teller)](https://cassimahmedattia.github.io/cassimahmedattia)
+
+[![u8views profile views](https://u8views.com/api/v1/github/profiles/121827373/views/day-week-month-total-count.svg)](https://u8views.com/github/cassimahmedattia)
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=cassimahmedattia&label=Profile%20views&color=0e75b6&style=flat" alt="cassimahmedattia"/> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cassimahmedattia" alt="cassimahmedattia" /></a> </p>
+
+[![Profile Teller](https://visitcount.itsvg.in/api?id=cassimahmedattia&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=cassimahmedattia&label=Profile%20Views&color=0&icon=0&pretty=false" />
+</a>
+
+<br>
+# Who AM I? Inshort Who is Cassim Ahmed Attia?
+<br>
+<a href="https://cassimahmedattia.blog">
+  <img src="https://cdn.truelancer.com/user-picture/4523457-65a4fc2f1ba16.jpg" />
+</a>
+<br>
+- [X] The Programmer
+[X] The Gamer
+[X] The Technology Lover
+
+<!--
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushgarg-dev&label=Profile%20views&color=0e75b6&style=flat" alt="piyushgarg-dev" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushgarg-dev" alt="piyushgarg-dev" /></a> </p>
 
 
-
-![](https://komarev.com/ghpvc/?username=cassimahmedattia)
-
-![](https://komarev.com/ghpvc/?username=cassimahmedattia&base=1000&)
-
+<p align="center">
+  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />
+  <h2 align="center">GitHub Profile Trophy</h2>
+  <p align="center">🏆 Add dynamically generated GitHub Stat Trophies on your readme</p>
+</p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
+    <img src="https://img.shields.io/github/issues/ryo-ma/github-profile-trophy"/>
+  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy/network/members">
+    <img src="https://img.shields.io/github/forks/ryo-ma/github-profile-trophy"/>
+  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy/stargazers">
+    <img src="https://img.shields.io/github/stars/ryo-ma/github-profile-trophy"/>
+  </a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy/LICENSE">
+    <img src="https://img.shields.io/github/license/ryo-ma/github-profile-trophy"/>
+  </a>
+</p>
+<p align="center">
+  </a>
+    <a href="https://twitter.com/intent/tweet?text=Add%20dynamically%20generated%20GitHub%20Trophy%20on%20your%20readme%0D%0A&url=https%3A%2F%2Fgithub.com%2Fryo-ma%2Fgithub-profile-trophy">
+    <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fryo-ma%2Fgithub-profile-trophy"/>
+  </a>
+</p>
+<p align="center">
+  You can use this service for free. I'm looking for sponsors to help us keep up with this service❤️
+</p>
+<p align="center">
+  <a href="https://github.com/sponsors/ryo-ma">
+    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/>
+  </a>
+</p>
 
 [<kbd> <br> Get Started on Cloud ➜ <br> </kbd>](https://hoppscotch.io)
 [<kbd> <br> Get Desktop App ➜ <br> </kbd>](https://hoppscotch.com/download)
 [<kbd> <br> Self-Host ➜ <br> </kbd>](https://docs.hoppscotch.io/documentation/self-host/getting-started)
 
 <sub>[Website](https://hoppscotch.com) &nbsp; • &nbsp; [Documentation](https://docs.hoppscotch.io) &nbsp; • &nbsp; [GitHub](https://github.com/hoppscotch/hoppscotch)</sub>
-
+-->
 
 # Important Notices <!-- omit in toc -->
 > [!Important]\
@@ -66,7 +163,7 @@ Add other profile like Freelancer
 # **CASSIM AHEMD ATTIA**
 <br>
 
-###### `Cyber & Information Data Security Professional` | `Vulnerability Analysis & Assessment` | `Malware Analysis & Assessment` | `SOC Tier 1, 2, 3 Analysis & Assessment` | `CVS, CVE, CWE, CVSS, NVD, CPE, CAPEC, CWSS, CCE, OSSTMM, OWASP, MITRE ATT&CK, ISMS, PKI, DMZ, HIDS/NIDS, SSO, DLP, SIEM` | `Penetration Testing` | `Cloud Systems Administration` | `Blue, Green, Orange, Purple, Red, Yellow Team` | `AI, Des, Dev, Git, Sec, Sys, Tech, Ops` | `Technical & OpsVerseAutomation` | `Cloud Edge, Architecture, Infrastructure & Engineering Management` | `FinTech` | `Blockchain Architecture & Core Architecture, Decentralized Applications & DeCentralized Finance` | `Quntum Programming` | `XXE, XXS, SQLi, OAuth2, SAML, LDAP, RESTful and SOAP` | `HighTech` | `TechPunk` | `BlueFin` | `BlueTech` | `YellowTech` | `BlueChip` | `SiliconValley` | `CyberPunk`
+###### `Cyber & Information Data Security Professional` | `Cyber War Thunder` | `Cyber WarFare` | `Vulnerability Analysis & Assessment` | `Malware Analysis & Assessment` | `SOC Tier 1, 2, 3 Analysis & Assessment` | `CVS, CVE, CWE, CVSS, NVD, CPE, CAPEC, CWSS, CCE, OSSTMM, OWASP, MITRE ATT&CK, ISMS, PKI, DMZ, HIDS/NIDS, SSO, DLP, SIEM` | `Penetration Testing` | `Cloud Systems Administration` | `Blue, Green, Orange, Purple, Red, Yellow Team` | `AI, Des, Dev, Git, Sec, Sys, Tech, Ops` | `Technical & OpsVerseAutomation` | `Cloud Edge, Architecture, Infrastructure & Engineering Management` | `FinTech` | `Blockchain Architecture & Core Architecture, Decentralized Applications & DeCentralized Finance` | `Quntum Programming` | `XXE, XXS, SQLi, OAuth2, SAML, LDAP, RESTful and SOAP` | `HighTech` | `TechPunk` | `BlueFin` | `BlueTech` | `YellowTech` | `BlueChip` | `SiliconValley` | `CyberPunk`
 
 <br>
 
@@ -89,8 +186,7 @@ Seeking freelance opportunities to enhance Cyber Security posture, offering tail
 Client-centric approach dedicated to understanding unique client needs, delivering high-quality, cost-effective services prioritizing data confidentiality and integrity. Let's collaborate to fortify your digital assets against evolving cyber threats. Contact for customized Cyber-Security solutions aligned with your specific needs.
 
 
-
-**Cassim Ahmed Attia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Cassim Ahmed Attia`** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -135,6 +231,7 @@ https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,dis
 [![Kaggle-Profile](https://img.shields.io/badge/Kaggle-%230000FF.svg?logo=kaggle&logoColor=lightblue)](https://www.kaggle.com/cassimahmedattia)
 <br>
 [![Website-Profile/Portfolio](https://img.shields.io/badge/Website-%23FF0000.svg?logo=Website&logoColor=white)](https://cassimahmedattia.github.io/cassimahmedattia/)
+
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fcassimahmedattia.github.io%2Fcassimahmedattia%2F)](https://cassimahmedattia.github.io/cassimahmedattia/)
 <br>
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF0000.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/CassimAhmedAttia/)
@@ -202,7 +299,7 @@ You can use [GitHub's new media feature](https://github.blog/changelog/2022-05-1
 
 [![WhatsApp](https://img.shields.io/badge/whatsapp-%23ffffff.svg?style=for-the-badge&logo=gitlab&logoColor=orange&link)](https://api.whatsapp.com/send/?phone=''&text=Hello%20from%20GitHub&type=phone_number&sent&app_absent=1)
 
-[![Telegram](https://img.shields.io/badge/whatsapp-%23ffffff.svg?style=for-the-badge&logo=gitlab&logoColor=orange&link)](https://api.whatsapp.com/send/?phone=923072361899&text=Hello%20from%20GitHub&type=phone_number&sent&app_absent=1)
+[![Telegram](https://img.shields.io/badge/whatsapp-%23ffffff.svg?style=for-the-badge&logo=gitlab&logoColor=orange&link)]()
 
 
 </details>
@@ -219,6 +316,9 @@ You can use [GitHub's new media feature](https://github.blog/changelog/2022-05-1
 [![AWS](https://img.shields.io/badge/AWS-%23000000.svg?style=for-the-badge&logo=aws&logoColor=orange&link=https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Symbol-700x394.png)](link-url)
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@cassimahmedattia)
+
+[![Viber](https://img.shields.io/badge/viber-%23ffffff.svg?style=for-the-badge&logo=viber&logoColor=orange&link)]()
+
 
 
 <!--
@@ -389,4 +489,178 @@ https://progress-bar.dev/50?title=HTML
 [Error Page]: [/redirects/errors.html](https://cassimahmedattia.github.io/cassimahmedattia/redirects/errors.html)
 [Error Page 1]: https://github.com/cassimahmedattia/cassimahmedattia/tree/bd346fe877ba07893303d2f488203a3a003e6348/docs/redirects
 <!-- This is the End Area for Link Connection by Label -->
+
+## 📖 Contact 📞
+![Contact](https://img.shields.io/website?url=https%3A%2F%2Fcassimahmedattia.github.io%2Fcassimahmedattia%2F&up_message=Visit&up_color=Green&down_message=Warning&down_color=Red&logo=Visit&logoColor=RedWhite&label=Website&labelColor=Red&color=White)
+
+![Google Form](https://img.shields.io/badge/googleform-%23E34F26.svg?style=for-the-badge&logo=googleform&logoColor=colorful)
+![Form](https://img.shields.io/badge/form-%23E34F26.svg?style=for-the-badge&logo=form&logoColor=colorful)
+
+
+## 💰💸🤑 Support 🤑 💸💰
+<details>
+<summary>:eyes: If you want to support me through Donation</summary>
+
+[![Donation](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+</details>
+
+
+
+
+
+==========================================================================================================================================================================================
+<!--
+![GithubHeader](https://user-images.githubusercontent.com/37477845/92315782-e1255d80-f025-11ea-80e0-e62fc08c7a1e.gif)
+
+### Github Trophy <!--& Kaggle Badge <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/kazuhito00/competition/light" height="110px"> -->
+
+<!--
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kazuhito00&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&title=MultiLanguage,Commit,Stars,Repositories,Followers,Issues&margin-w=3)](https://github.com/ryo-ma/github-profile-trophy)
+
+### About Me
+- 名古屋で組込みエンジニア(C/C++)をしていました。<br>I was an embedded engineer(C/C++) in Japan Aichi Nagoya.
+- 最近は画像処理(C++/Python)、Web(Azure/AWS/SFDC)やIoTの仕事もしています。<br>Recently I've been working on image processing(C++/Python), Web Application(Azure/AWS/SFDC) and IoT.
+- 機械学習やKaggle勉強中(🥉×２)です。<br>Currently studying machine learning and Kaggle(🥉×2)
+- 物体検出やセマンティックセグメンテーションに興味があります。<br>I am interested in ObjectDetection and SemanticSegmentation
+
+### Works
+リポジトリ一覧、寄稿等は「[WORKS.md](https://github.com/Kazuhito00/Kazuhito00/blob/master/WORKS.md)」を参照ください。<br>
+※画像を多く使用しており通信量が多くなる懸念があるため、モバイル回線や通信料従量制の方はご注意ください<br>　また、サムネイルの画像が小さいため、PCでの閲覧を推奨しています<br>
+Please refer to "[WORKS.md](https://github.com/Kazuhito00/Kazuhito00/blob/master/WORKS.md)" for the list of repositories and contributions.<br>
+Because many images are used and there is a concern that the amount of communication will increase, <br>
+please be careful if you are using a mobile line or a pay-as-you-go communication system. <br>
+Also, since the thumbnail image is small, we recommend viewing it on a PC.
+
+### Gitstar Ranking
+「[Gitstar Ranking(Kazuhito00)](https://gitstar-ranking.com/Kazuhito00)」にてスター数の多いリポジトリが確認できます。<br>
+You can check repositories with many stars on "[Gitstar Ranking(Kazuhito00)](https://gitstar-ranking.com/Kazuhito00)".
+
+### Recent Blog Posts
+<!-- feed start -->
+<!--
+- Apr 24 - [LLIE系モデルLYT-Netお試し🦔](https://kazuhito00.hatenablog.com/entry/2024/04/24/203614)
+- Apr 24 - [一人歩きする資料くん👀](https://kazuhito00.hatenablog.com/entry/2024/04/24/201424)
+- Apr 20 - [MeshFlowで動画のブレ補正をお試し🦔](https://kazuhito00.hatenablog.com/entry/2024/04/20/184245)
+- Apr 18 - [Keras Code examples 「Keypoint Detection with Transfer Learning」のダメそうなポイントのメモ🦔](https://kazuhito00.hatenablog.com/entry/2024/04/18/210936)
+- Apr 13 - [GlobalFlowNetで動画のブレ補正をお試し🦔](https://kazuhito00.hatenablog.com/entry/2024/04/13/182256)
+-->
+<!-- feed end -->
+<!--
+### How to reach me
+何かご相談の際には、TwitterのDMから連絡をお願いします。<br>If you have any questions, please contact us via Twitter DM.
+[<img src="https://img.shields.io/badge/-ffffff.svg?logo=twitter&style=flat">](https://twitter.com/KzhtTkhs)
+
+### SNS
+[<img src="https://user-images.githubusercontent.com/37477845/94174253-05ab8180-fed0-11ea-8cf6-312bdb610b74.png" width="32px">](https://twitter.com/KzhtTkhs) [<img src="https://user-images.githubusercontent.com/37477845/94174258-06dcae80-fed0-11ea-9d11-b6ef832e54a4.png" width="32px">](https://kazuhito00.hatenablog.com/) [<img src="https://user-images.githubusercontent.com/37477845/94174261-06dcae80-fed0-11ea-99d4-cc66d7a91c31.png" width="32px">](https://qiita.com/Kazuhito) [<img src="https://user-images.githubusercontent.com/37477845/94174263-07754500-fed0-11ea-8ef3-004bee2cbcc5.jpg" width="32px">](https://zenn.dev/kazuhito)  [<img src="https://user-images.githubusercontent.com/37477845/94176882-b0716f00-fed3-11ea-8254-dbff72e992e2.png" width="32px">](https://speakerdeck.com/kazuhitotakahashi) [<img src="https://user-images.githubusercontent.com/37477845/102078263-fb08e480-3e4d-11eb-907f-8bdd10d77da4.png" width="32px">](https://www.kaggle.com/kazuhito00)<!--<a href="https://www.buymeacoffee.com/Kazuhito00" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" height="41" width="174" ></a>--><a href="https://www.buymeacoffee.com/Kazuhito00" target="_blank"><br><img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" height="36" width="170" >[<img src="https://user-images.githubusercontent.com/37477845/120681754-aa0dab00-c4d6-11eb-8b1d-7902d5d8fc5a.png" height="30px">](https://ofuse.me/o?uid=38065)
+<!--
+### Technologies 
+<img src="https://img.shields.io/badge/C Lang-222222.svg?logo=c&style=flat"> <img src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&style=flat"> <img src="https://img.shields.io/badge/C%23-239120.svg?logo=C%20Sharp&style=flat"> <img src="https://img.shields.io/badge/Python-f9d64e.svg?logo=python&style=flat"> <img src="https://img.shields.io/badge/Julia-a577bd.svg?logo=julia&style=flat"> <img src="https://img.shields.io/badge/MATLAB-0076A8.svg?logo=mathworks&style=flat"> <img src="https://img.shields.io/badge/HTML5-222222.svg?logo=html5&style=flat">
+ <img src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&style=flat"> <img src="https://img.shields.io/badge/javascript-3577c4.svg?logo=javascript&style=flat"> <img src="https://img.shields.io/badge/TesorFlow-aa4c00.svg?logo=tensorflow&style=flat"> <img src="https://img.shields.io/badge/PyTorch-aa381e.svg?logo=pytorch&style=flat"> <img src="https://img.shields.io/badge/OpenCV-FF0000.svg?logo=opencv&style=flat"> <img src="https://img.shields.io/badge/Qt-AAAAAA.svg?logo=qt&style=flat"> <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A.svg?logo=Raspberry%20Pi&style=flat"> <img src="https://img.shields.io/badge/Arduino-AAAAAA.svg?logo=Arduino&style=flat"> <img src="https://img.shields.io/badge/PowerPoint-B7472A.svg?logo=Microsoft%20PowerPoint&style=flat"> <img src="https://img.shields.io/badge/Prezi-AAAAAA.svg?logo=prezi&style=flat"> <img src="https://img.shields.io/badge/Unity-000000.svg?logo=unity&style=flat"> <img src="https://img.shields.io/badge/Android-AAAAAA.svg?logo=android&style=flat"> <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?logo=Amazon%20AWS&style=flat"> <img src="https://img.shields.io/badge/Microsoft%20Azure-00a5ff.svg?logo=Microsoft%20Azure&style=flat"> <img src="https://img.shields.io/badge/-Google%20Cloud-AAAAAA.svg?logo=google-cloud&style=flat"> <img src="https://img.shields.io/badge/IBM%20Cloud-000000.svg?logo=IBM%20Cloud&style=flat"> <img src="https://img.shields.io/badge/Salesforce-00bafc.svg?logo=Salesforce&style=flat"> <img src="https://img.shields.io/badge/Kaggle-21eaff.svg?logo=kaggle&style=flat"> <img src="https://img.shields.io/badge/-Docker-AAAAAA.svg?logo=docker&style=flat"> [![My Qiita posts](https://qiita-badge.apiapi.app/s/Kazuhito/posts.svg)](http://qiita.com/Kazuhito)
+ 
+![GithubHeader2](https://user-images.githubusercontent.com/37477845/92398696-07e9ae00-f164-11ea-9f4f-42df807a6218.gif)
+
+-->
+
+
+![GithubHeader](https://user-images.githubusercontent.com/37477845/92315782-e1255d80-f025-11ea-80e0-e62fc08c7a1e.gif)
+
+### Github Trophy
+<!--
+& Kaggle Badge <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/kazuhito00/competition/light" height="110px">
+-->
+[![trophy](https://github-profile-trophy.vercel.app/?username=cassimahmedattia&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&title=MultiLanguage,Commit,Stars,Repositories,Followers,Issues&margin-w=3)](https://github.com/cassimahmedattia/github-profile-trophy)
+<!--
+### About Me
+- 名古屋で組込みエンジニア(C/C++)をしていました。<br>I was an embedded engineer(C/C++) in Japan Aichi Nagoya.
+- 最近は画像処理(C++/Python)、Web(Azure/AWS/SFDC)やIoTの仕事もしています。<br>Recently I've been working on image processing(C++/Python), Web Application(Azure/AWS/SFDC) and IoT.
+- 機械学習やKaggle勉強中(🥉×２)です。<br>Currently studying machine learning and Kaggle(🥉×2)
+- 物体検出やセマンティックセグメンテーションに興味があります。<br>I am interested in ObjectDetection and SemanticSegmentation
+-->
+<!--
+### Works
+リポジトリ一覧、寄稿等は「[WORKS.md](https://github.com/Kazuhito00/Kazuhito00/blob/master/WORKS.md)」を参照ください。<br>
+※画像を多く使用しており通信量が多くなる懸念があるため、モバイル回線や通信料従量制の方はご注意ください<br>　また、サムネイルの画像が小さいため、PCでの閲覧を推奨しています<br>
+Please refer to "[WORKS.md](https://github.com/Kazuhito00/Kazuhito00/blob/master/WORKS.md)" for the list of repositories and contributions.<br>
+Because many images are used and there is a concern that the amount of communication will increase, <br>
+please be careful if you are using a mobile line or a pay-as-you-go communication system. <br>
+Also, since the thumbnail image is small, we recommend viewing it on a PC.
+-->
+### Works
+[WORKS.md](https://github.com/cassimahmedattia/cassimahmedattia/blob/master/WORKS.md)<br>
+<br>
+Please refer to "[WORKS.md](https://github.com/cassimahmedattia/cassimahmedattia/blob/master/WORKS.md)" for the list of repositories and contributions.<br>
+Because many images are used and there is a concern that the amount of communication will increase, <br>
+please be careful if you are using a mobile line or a pay-as-you-go communication system. <br>
+Also, since the thumbnail image is small, we recommend viewing it on a PC.
+### Gitstar Ranking
+[Gitstar Ranking(cassimahmedattia)](https://gitstar-ranking.com/cassimahmedattia)」<br>
+You can check repositories with many stars on "[Gitstar Ranking(cassimahmedattia)](https://gitstar-ranking.com/cassimahmedattia)".
+
+### Recent Blog Posts
+<!-- feed start -->
+<!--
+- Apr 24 - [LLIE系モデルLYT-Netお試し🦔](https://kazuhito00.hatenablog.com/entry/2024/04/24/203614)
+- Apr 24 - [一人歩きする資料くん👀](https://kazuhito00.hatenablog.com/entry/2024/04/24/201424)
+- Apr 20 - [MeshFlowで動画のブレ補正をお試し🦔](https://kazuhito00.hatenablog.com/entry/2024/04/20/184245)
+- Apr 18 - [Keras Code examples 「Keypoint Detection with Transfer Learning」のダメそうなポイントのメモ🦔](https://kazuhito00.hatenablog.com/entry/2024/04/18/210936)
+- Apr 13 - [GlobalFlowNetで動画のブレ補正をお試し🦔](https://kazuhito00.hatenablog.com/entry/2024/04/13/182256)
+-->
+<!-- feed end -->
+
+### How to reach me
+<!--何かご相談の際には、TwitterのDMから連絡をお願いします。<br>If you have any questions, please contact us via Twitter DM.-->
+[<img src="https://img.shields.io/badge/-ffffff.svg?logo=twitter&style=flat">](https://twitter.com/cassimahmedattia)
+
+### SNS
+[<img src="https://user-images.githubusercontent.com/37477845/94174253-05ab8180-fed0-11ea-8cf6-312bdb610b74.png" width="32px">](https://twitter.com/cassimahmedattia)
+[<img src="https://user-images.githubusercontent.com/37477845/94174258-06dcae80-fed0-11ea-9d11-b6ef832e54a4.png" width="32px">](https://cassimahmedattia.hatenablog.com/)
+[<img src="https://user-images.githubusercontent.com/37477845/94174261-06dcae80-fed0-11ea-99d4-cc66d7a91c31.png" width="32px">](https://qiita.com/cassimahmedattia)
+[<img src="https://user-images.githubusercontent.com/37477845/94174263-07754500-fed0-11ea-8ef3-004bee2cbcc5.jpg" width="32px">](https://zenn.dev/cassimahmedattia)
+[<img src="https://user-images.githubusercontent.com/37477845/94176882-b0716f00-fed3-11ea-8254-dbff72e992e2.png" width="32px">](https://speakerdeck.com/cassimahmedattia)
+[<img src="https://user-images.githubusercontent.com/37477845/102078263-fb08e480-3e4d-11eb-907f-8bdd10d77da4.png" width="32px">](https://www.kaggle.com/cassimahmedattia)
+<!--
+<a href="https://www.buymeacoffee.com/Kazuhito00" target="_blank">
+<img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" height="41" width="174" ></a>
+-->
+<a href="https://www.buymeacoffee.com/cassimahmedattia" target="_blank">
+<br>
+<img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" height="36" width="170" >buy a coffee
+ [<img src="https://user-images.githubusercontent.com/37477845/120681754-aa0dab00-c4d6-11eb-8b1d-7902d5d8fc5a.png" height="30px">](https://ofuse.me/o?uid=38065)
+
+### Technologies 
+<img src="https://img.shields.io/badge/C Lang-222222.svg?logo=c&style=flat">
+<img src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&style=flat">
+<img src="https://img.shields.io/badge/C%23-239120.svg?logo=C%20Sharp&style=flat">
+<img src="https://img.shields.io/badge/Python-f9d64e.svg?logo=python&style=flat">
+<img src="https://img.shields.io/badge/Julia-a577bd.svg?logo=julia&style=flat">
+<img src="https://img.shields.io/badge/MATLAB-0076A8.svg?logo=mathworks&style=flat">
+<img src="https://img.shields.io/badge/HTML5-222222.svg?logo=html5&style=flat">
+<img src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&style=flat">
+<img src="https://img.shields.io/badge/javascript-3577c4.svg?logo=javascript&style=flat">
+<img src="https://img.shields.io/badge/TesorFlow-aa4c00.svg?logo=tensorflow&style=flat">
+<img src="https://img.shields.io/badge/PyTorch-aa381e.svg?logo=pytorch&style=flat">
+<img src="https://img.shields.io/badge/OpenCV-FF0000.svg?logo=opencv&style=flat">
+<img src="https://img.shields.io/badge/Qt-AAAAAA.svg?logo=qt&style=flat">
+<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A.svg?logo=Raspberry%20Pi&style=flat">
+<img src="https://img.shields.io/badge/Arduino-AAAAAA.svg?logo=Arduino&style=flat">
+<img src="https://img.shields.io/badge/PowerPoint-B7472A.svg?logo=Microsoft%20PowerPoint&style=flat">
+<img src="https://img.shields.io/badge/Prezi-AAAAAA.svg?logo=prezi&style=flat">
+<img src="https://img.shields.io/badge/Unity-000000.svg?logo=unity&style=flat">
+<img src="https://img.shields.io/badge/Android-AAAAAA.svg?logo=android&style=flat">
+<img src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?logo=Amazon%20AWS&style=flat">
+<img src="https://img.shields.io/badge/Microsoft%20Azure-00a5ff.svg?logo=Microsoft%20Azure&style=flat">
+<img src="https://img.shields.io/badge/-Google%20Cloud-AAAAAA.svg?logo=google-cloud&style=flat">
+<img src="https://img.shields.io/badge/IBM%20Cloud-000000.svg?logo=IBM%20Cloud&style=flat">
+<img src="https://img.shields.io/badge/Salesforce-00bafc.svg?logo=Salesforce&style=flat">
+<img src="https://img.shields.io/badge/Kaggle-21eaff.svg?logo=kaggle&style=flat">
+<img src="https://img.shields.io/badge/-Docker-AAAAAA.svg?logo=docker&style=flat">
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/cassimahmedattia/posts.svg)](http://qiita.com/cassimahmedattia)
+
+![GithubHeader2](https://user-images.githubusercontent.com/37477845/92398696-07e9ae00-f164-11ea-9f4f-42df807a6218.gif)
+
+
+
 
