@@ -1,3 +1,7 @@
+![Snake animation](https://raw.githubusercontent.com/cassimahmedattia/cassimahmedattia/output/github-contribution-grid-snake-dark.svg)
+
+<!--![Snake animation](https://raw.githubusercontent.com/{username}/{username}/output/github-contribution-grid-snake-dark.svg)-->
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=cassimahmedattia)](https://github.com/cassimahmedattia/github-profile-trophy)
 
 <p align="center"><!--
