@@ -53,7 +53,7 @@ Profile Teller Freely from Start: [![Profile Teller Initially to Till](https://k
 
 <br>
 # Who AM I? Inshort Who is Cassim Ahmed Attia?
-<br>
+<br><!--
 <a href="https://cassimahmedattia.blog">
   <img src="https://cdn.truelancer.com/user-picture/4523457-65a4fc2f1ba16.jpg" />
 </a>
@@ -61,7 +61,7 @@ Profile Teller Freely from Start: [![Profile Teller Initially to Till](https://k
 - [X] The Programmer
 [X] The Gamer
 [X] The Technology Lover
-
+-->
 <!--
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushgarg-dev&label=Profile%20views&color=0e75b6&style=flat" alt="piyushgarg-dev" /> </p>
