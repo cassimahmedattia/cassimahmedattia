@@ -13,7 +13,7 @@
 
 
 
-https://github-readme-streak-stats.herokuapp.com/?user=cassimahmedattia&%22%20alt=%22cassimahmedattia
+![Current-Streak](https://github-readme-streak-stats.herokuapp.com/?user=cassimahmedattia&%22%20alt=%22cassimahmedattia)
 
 
 
@@ -27,7 +27,7 @@ https://github-readme-streak-stats.herokuapp.com/?user=cassimahmedattia&%22%20al
 
 
 
-![Snake animation](https://raw.githubusercontent.com/cassimahmedattia/cassimahmedattia/output/github-contribution-grid-snake-dark.svg)
+![Snake-Animation](https://raw.githubusercontent.com/cassimahmedattia/cassimahmedattia/output/github-contribution-grid-snake-dark.svg)
 
 <!--![Snake animation](https://raw.githubusercontent.com/{username}/{username}/output/github-contribution-grid-snake-dark.svg)-->
 
