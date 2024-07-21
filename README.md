@@ -22,7 +22,7 @@
 
 
 
-![snake animation](https://github.com/<cassimahmedattia>/<cassimahmedattia>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/cassimahmedattia/cassimahmedattia/blob/output/github-contribution-grid-snake2.svg)
 
 
 anuraghazra
