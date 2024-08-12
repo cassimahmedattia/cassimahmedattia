@@ -1,4 +1,4 @@
-<botton href='https://platane.me/snk/'>Click here write the username "cassimahmedattia" to verify here.</botton>
+<input type=botton href='https://platane.me/snk/' text='Click here write the username "cassimahmedattia" to verify here.'/>
 <!--
 <img src="https://raw.githubusercontent.com/cassimahmedattia/cassimahmedattia/output/snake.svg" alt="Snake animation" />
 -->
