@@ -1,4 +1,11 @@
 - uses: Platane/snk@v3
+- name: generate github-contribution-grid-snake.svg
+  uses: Platane/snk/svg-only@v3
+  with:
+    github_user_name: ${{ github.repository_owner }}
+    outputs: |
+      dist/github-contribution-grid-snake.svg?color_snake=orange
+      dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=orange
   with:
     # github user name to read the contribution graph from (**required**)
     # using action context var `github.repository_owner` or specified user
